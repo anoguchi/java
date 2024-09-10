@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/01-Getting_Started" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/01-Getting_Started/Exercises" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/02-Variables_and_Primitive_Data_Types" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03-Operators_and_Casting" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
