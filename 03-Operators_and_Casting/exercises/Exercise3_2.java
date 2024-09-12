@@ -1,5 +1,3 @@
-package exercises;
-
 public class Exercise3_2 {
     public static void main(String[] args) {
         // Declare the weight of a dinosaur and the food per weight unit

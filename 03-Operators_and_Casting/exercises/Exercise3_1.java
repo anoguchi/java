@@ -1,5 +1,3 @@
-package exercises;
-
 public class Exercise3_1 {
     public static void main(String[] args) {
         double dinosaur01 = 350.4;

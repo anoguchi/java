@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-Getting_Started/01-Getting_Started.iml" filepath="$PROJECT_DIR$/01-Getting_Started/01-Getting_Started.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Variables_and_Primitive_Data_Types/02-Variables_and_Primitive_Data_Types.iml" filepath="$PROJECT_DIR$/02-Variables_and_Primitive_Data_Types/02-Variables_and_Primitive_Data_Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Operators_and_Casting/03-Operators_and_Casting.iml" filepath="$PROJECT_DIR$/03-Operators_and_Casting/03-Operators_and_Casting.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Fundamentals.iml" filepath="$PROJECT_DIR$/Java_Fundamentals.iml" />
     </modules>
   </component>

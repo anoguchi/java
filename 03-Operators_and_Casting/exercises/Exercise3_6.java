@@ -1,5 +1,3 @@
-package exercises;
-
 public class Exercise3_6 {
     public static void main(String[] args) {
         // Declare the park's safety rating and the safety threshold

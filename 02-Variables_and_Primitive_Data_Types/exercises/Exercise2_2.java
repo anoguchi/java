@@ -1,5 +1,3 @@
-package exercises;
-
 public class Exercise2_2 {
     public static void main(String[] args) {
         int age;
@@ -13,8 +11,5 @@ public class Exercise2_2 {
         String out = "Name: " + name + "\nAge: " + age + "\nIs carnivore: " + isCarnivore;
 
         System.out.println(out);
-
-
-
     }
 }

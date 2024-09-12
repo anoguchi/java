@@ -1,5 +1,3 @@
-package exercises;
-
 public class Exercise3_4 {
     public static void main(String[] args) {
         float parkMaximumCapacity = 30_000f;

@@ -1,6 +1,4 @@
-package dinosaur;
-
-public class Welcome {
+public class Main {
     public static void main(String[] args) {
         String name = "Alberto";
         System.out.println("Welcome, " + name + " to Mesozoic Eden!");

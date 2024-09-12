@@ -1,5 +1,3 @@
-package project;
-
 public class Main {
     public static void main(String[] args) {
         String name = "Jaum";
@@ -12,6 +10,5 @@ public class Main {
                 ", it has a robust weight of " + weight + " kilograms.";
 
         System.out.println(out);
-
     }
 }

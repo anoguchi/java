@@ -1,5 +1,3 @@
-package exercises;
-
 public class Exercise3_5 {
     public static void main(String[] args) {
         // Declare the ages of two dinosaurs
