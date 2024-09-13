@@ -1,8 +1,8 @@
 public class Exercise4_6 {
     public static void main(String[] args) {
         /*
-          Proper nutrition is crucial for maintaining our dinosaurs’ health. Write an if statement that determines the
-          number of feeds a dinosaur requires per day based on its weight.
+        Proper nutrition is crucial for maintaining our dinosaurs’ health. Write an if statement that determines the
+        number of feeds a dinosaur requires per day based on its weight.
         */
         double weight = 8000; // dinosaur weight in kilograms
 

@@ -1,9 +1,9 @@
 public class Exercise4_4 {
     public static void main(String[] args) {
         /*
-         We are working with beautiful but dangerous creatures. So, safety first. Write a program that prints a
-         warning message if the park’s safety rating falls below a certain threshold. We must always be alert to
-         potential issues that could harm our staff, visitors, or dinosaurs.
+        We are working with beautiful but dangerous creatures. So, safety first. Write a program that prints a
+        warning message if the park’s safety rating falls below a certain threshold. We must always be alert to
+        potential issues that could harm our staff, visitors, or dinosaurs.
         */
         int parkSafety = 8;
         switch (parkSafety) {

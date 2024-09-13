@@ -1,9 +1,9 @@
 public class Exercise4_3 {
     public static void main(String[] args) {
         /*
-         Some dinosaurs are tougher to handle than others. Write an if statement that checks whether a number of years
-         of experience is enough experience to work with a certain type of dinosaur. This ensures the safety of both our
-         dinosaurs and employees.
+        Some dinosaurs are tougher to handle than others. Write an if statement that checks whether a number of years
+        of experience is enough experience to work with a certain type of dinosaur. This ensures the safety of both our
+        dinosaurs and employees.
         */
         int yearOfExperience = 3;
 

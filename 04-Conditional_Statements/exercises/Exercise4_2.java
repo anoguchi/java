@@ -1,9 +1,9 @@
 public class Exercise4_2 {
     public static void main(String[] args) {
         /*
-          Different species require different care strategies and exhibit unique behavior traits. Write a switch
-          statement that prints a description of a dinosaur based on its species. This will help educate both the
-          staff and park visitors.
+        Different species require different care strategies and exhibit unique behavior traits. Write a switch
+        statement that prints a description of a dinosaur based on its species. This will help educate both the
+        staff and park visitors.
         */
         String dinosaurType = "Velociraptor";
         switch (dinosaurType) {
