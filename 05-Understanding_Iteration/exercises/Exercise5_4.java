@@ -11,6 +11,6 @@ public class Exercise5_4 {
         for (int weight : weights) {
             totalWeight += weight;
         }
-        System.out.println("Total weight of dinosaurs: " + totalWeight);
+        System.out.println("Total weight of dinosaurs: " + totalWeight + " kg");
     }
 }

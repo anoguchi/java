@@ -7,7 +7,7 @@ public class Exercise5_3 {
 
         int countdown = 60;
         while (countdown >= 0) {
-            System.out.println("Park opens in " + countdown + " minutes.");
+            System.out.println("Park opens in " + countdown + " seconds.");
             countdown--;
         }
         System.out.println("Park is now open!");
